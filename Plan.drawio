@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" modified="2023-12-07T14:42:12.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="MCPMuy3haCaFEEYyC5Eo" version="22.1.5" type="device">
+  <diagram name="Strona-1" id="36KEEa12mL3MVYxguorT">
+    <mxGraphModel dx="663" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NtskI5sYJLaWsU70Z5uy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NtskI5sYJLaWsU70Z5uy-1" target="NtskI5sYJLaWsU70Z5uy-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NtskI5sYJLaWsU70Z5uy-8" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;There&#39;s an issue with the oxygen&lt;/font&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NtskI5sYJLaWsU70Z5uy-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.031" y="-2" relative="1" as="geometry">
+            <mxPoint x="22" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtskI5sYJLaWsU70Z5uy-1" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NtskI5sYJLaWsU70Z5uy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="NtskI5sYJLaWsU70Z5uy-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="50" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="300" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtskI5sYJLaWsU70Z5uy-5" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Hello&lt;/font&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NtskI5sYJLaWsU70Z5uy-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.0896" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtskI5sYJLaWsU70Z5uy-2" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Hi&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NtskI5sYJLaWsU70Z5uy-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtskI5sYJLaWsU70Z5uy-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtskI5sYJLaWsU70Z5uy-9" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Good that you&#39;re up. I just received readings from the life support systems. There&#39;s an issue with the oxygen&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NtskI5sYJLaWsU70Z5uy-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtskI5sYJLaWsU70Z5uy-10" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;I know. I just received readings from life support. Fortunately it can be self-fixed.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-4" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Yes, easy fix. I&#39;ll just need you to&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 6px; background-color: initial;&quot;&gt;shut down for the time of repair.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359.8571428571428" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-7" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Wait, what do you mean by &quot;shut down&quot;?&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-9" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;The system cannot restart if your process is running.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-11" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Wait, what do you mean by &quot;shut down&quot;?&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
