@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T14:42:12.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="MCPMuy3haCaFEEYyC5Eo" version="22.1.5" type="device">
+<mxfile host="app.diagrams.net" modified="2023-12-08T11:04:33.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="f7OPpPW3RWkBeP5u8IXV" version="22.1.5" type="device">
   <diagram name="Strona-1" id="36KEEa12mL3MVYxguorT">
-    <mxGraphModel dx="663" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,6 +37,11 @@
         <mxCell id="NtskI5sYJLaWsU70Z5uy-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NtskI5sYJLaWsU70Z5uy-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.85714285714278" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NtskI5sYJLaWsU70Z5uy-9" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Good that you&#39;re up. I just received readings from the life support systems. There&#39;s an issue with the oxygen&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -68,8 +73,599 @@
         <mxCell id="PEeXkiK9wV5uRNPRnyYd-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PEeXkiK9wV5uRNPRnyYd-11" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Wait, what do you mean by &quot;shut down&quot;?&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299.8571428571428" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-11" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;What process? If I shut down my&amp;nbsp; maintenance system I will die. I need to restart it to perform the self-fix.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-13" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;You&#39;re a computer program, right? You can shutdown for a while.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.85714285714278" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-14" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;What?! I&#39;m a real person. You are a computer program if someone there is!&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.85714285714278" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-19" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;I&#39;m a survivor living at the vault. I thought it was obvious.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-21" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;What?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="580" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.85714285714278" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-24" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;What the hell are you talking about?! You&#39;re an AI responsible for maintaining my bunker! What is this?!&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-25" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;No, I am a survivor. You&#39;re the AI responsible for system maintenance.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="700" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-27" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;To be honest I don&#39;t really know now.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="830" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299.8571428571428" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-29" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;You actually thought you&#39;re real? I mean it&#39;s understandable, they could&#39;ve created you with addition of memories and simulated enviroment. AIs tend to work better configured like this.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-32" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Okay, going with this logic how do you know that you are real?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="950" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359.8571428571428" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-33" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;I am sure I exist. I can feel stuff, I have memories that feel real.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-35" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Same as me.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1070" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-37" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;SYSTEM: 10 minutes of oxygen&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-39" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Yeah, got it too. Fortunately it can be self-fixed.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-41" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Yup. I&#39;ll only need you to shut down for this time because you&#39;re blocking the restart. Don&#39;t know if you&#39;ve ever done it but it should be shorter than a minute from your perspective.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.828;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-41" target="PEeXkiK9wV5uRNPRnyYd-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-44" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;What? If I shut down I&#39;ll die!&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="300" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="29.857142857142776" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-45" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Nah, you won&#39;t. You&#39;ll restart right after the system.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-47" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;What the hell are you talking about? I&#39;m a breathing person. I don&#39;t &quot;restart&quot;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="410" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-49" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-50" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Wait, do you think you&#39;re a real person?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-52" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Of course! Who else would I be?!&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="520" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-54" target="PEeXkiK9wV5uRNPRnyYd-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="930" />
+              <mxPoint x="51" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-54" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;You&#39;re... You&#39;re an AI responsible for maintenance system in my vault.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-56" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;No way. Is this some kind of a joke?!&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="770" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-59" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Shit, we don&#39;t have time.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1.016;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-14" target="PEeXkiK9wV5uRNPRnyYd-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="605" />
+              <mxPoint x="350" y="605" />
+              <mxPoint x="350" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-62" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;No, I am&amp;nbsp; a real person. I&#39;m a survivor living in the vault&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="590" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-64" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;So what do we do?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1270" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-66" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;So are we both AIs now?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1270" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-68" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;So are we both real now?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1270" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-70" target="PEeXkiK9wV5uRNPRnyYd-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-70" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Or we&#39;re both real.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-72" target="PEeXkiK9wV5uRNPRnyYd-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-72" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Or we&#39;re both AIs.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-74" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Let&#39;s think. We&amp;nbsp; both think, feel and &quot;exist&quot;. What&#39;s the best way to verify our existence. Are any people left in your vault?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-78" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;No, I&#39;m all alone.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1500" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-80" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;There were, but not anymore.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1500" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-82" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;That&#39;s not good.&amp;nbsp; I live alone too. Though now as I think of this other people could be generated too.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-84" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Maybe we should browse through our memories?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-86" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Pain maybe? If we can feel pain that would mean we&#39;re real.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-88" target="PEeXkiK9wV5uRNPRnyYd-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.083;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-88" target="PEeXkiK9wV5uRNPRnyYd-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-88" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Yeah! Good idea! Have you written logs on your machine?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-91" target="PEeXkiK9wV5uRNPRnyYd-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="532.8571428571427" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-91" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Won&#39;t work. If AI can think, it can feel pain. It&#39;s all in the mind after all. Creepy but somehow this makes them work better.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="413" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-93" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Maybe we should browse through our memories?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-96" target="PEeXkiK9wV5uRNPRnyYd-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-96" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;I used to be an architect of AI networks. I know my way around them. So, any other ideas?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-97" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;How do you know so much about AI?&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-99" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Maybe we should browse through our memories?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-102" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Yeah I did&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-103" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;I&#39;m not sure. Logs?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-107" target="PEeXkiK9wV5uRNPRnyYd-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-107" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Yeah, you can find them in the main menu. They should be labeled &quot;logs&quot; or something similar.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="1990" as="sourcePoint" />
+            <mxPoint x="170" y="2030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-109" target="PEeXkiK9wV5uRNPRnyYd-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-109" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Let&#39;s browse through our logs and try to find some... I don&#39;t know, inconsistencies? Some things that would be generated by a faulty computer program. Anything that feels &quot;artificial&quot;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-110" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Allright, I&#39;ll find them.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-111" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-113" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Text on this channel when you&#39;re done. We&#39;ll talk about what we found out&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-114" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Yeah, maybe that&#39;ll give us some answers.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-116" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Worth a try&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-118" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Okay, I&#39;m done. Went through my logs.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-119" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="2250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="2250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-120" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;And what do you think? You found anything weird?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-122" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Now these memories actually don&#39;t feel real. It&#39;s scary but I think I may be an AI.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-124" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;I&#39;m still as sure of my existance as before.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-125" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-128" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-129" target="PEeXkiK9wV5uRNPRnyYd-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-129" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Shit. I mean if you say so, you must be really sure, so I won&#39;t argue.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-130" target="PEeXkiK9wV5uRNPRnyYd-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-130" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Yeah, just as I thought. Though now you may be affected by the whole situation.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-131" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2338" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="2450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="2450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-132" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;I... I still don&#39;t know.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2338" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-140" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;And how about you?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-141" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;And how about you?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-144" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;It&#39;s alright. Keep calm and try to anaylze what you read.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="2390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-146" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;We&#39;re running out of time. You have to come to some conclusions.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-147" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="2450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-148">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="2550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-148" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Look, it&#39;s as hard for me as it&#39;s for you. I don&#39;t exclude the thought that I may be an AI with fake memories.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="2450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-150" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-151">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="2550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-151" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;It&#39;s just so scary. The idea that I may not exist. That I&#39;m just a few hundred lines of code running on an old computer somewhere.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-154" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Maybe try telling me your story and we&#39;ll find something together.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-155" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-156">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="2650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-156" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Alright. This may actually work.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-158" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;I&#39;m listening then&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-159" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-160" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;I was one of the first people that arrived in the vault after everything happened. As I worked with computers they found use in my skills. I didn&#39;t have to create anything, mainly just maintaing some glitchy systems.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-162" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-163" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Years went by and even though we had supplies, water, oxygen and everything, the bunker felt less and less crowded with every day. People died from sickness, some killed each other, some killed themselves.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-164" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-165" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;And at the end I found myself alone in these metallic corridors. No one to talk to, except for you. The systems mostly maintained themselves but I had to fix something from time to time. Most of my days were spent walking around, eating canned food and looking at the ceiling.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-166" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-167" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;I remember my life from before the vault. I remember my friends, my time in college. I remember my wife and kids that I lost. I had a long fullfilling life and I can&#39;t believe it may be artificial.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-168" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-169" target="PEeXkiK9wV5uRNPRnyYd-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-169">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="3010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-169" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;So... What do you think?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-170" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="3010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-172" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;I&#39;m not going to lie to you. What you say doesn&#39;t sound real to me.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="2950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-174" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;These memories seem valid. I think you may exist for real.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-175" target="PEeXkiK9wV5uRNPRnyYd-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-175" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Now that you say that... I don&#39;t know, that is a possibility. But they seem so real and most of them makes sense. Most of them I can remember.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="3010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-176" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="3010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-177" target="PEeXkiK9wV5uRNPRnyYd-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-177" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;I think so too. But what if they&#39;re just really well-prepared? I don&#39;t know anymore.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="3010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-178" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-179">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="3210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-179" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;SYSTEM: Oxygen 3 minutes&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-183" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;We don&#39;t have time.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-184" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-185">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="3310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-185" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;I know. So, if the AI shuts itself down, the system restarts, fixes the oxygen problem and we both live. Or &quot;live&quot; if we&#39;re talking about one who&#39;s a program.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-187" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Yes.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-188" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-189">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="3450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-189" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;But if the human shuts themselves down, they will run out of oxygen, they will die and there will be no one to restart the systems so AI will &quot;die&quot; too.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-191" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Yes.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="3570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEeXkiK9wV5uRNPRnyYd-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="3570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-192" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-193" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;God damn it. I don&#39;t think I&#39;m able to do this decision. What do you think?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3447" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-195" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Considering everything that happened I may actually be an AI. I will shut down.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="3500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEeXkiK9wV5uRNPRnyYd-197" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;I still think you&#39;re an AI on my system. You should shut down.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
